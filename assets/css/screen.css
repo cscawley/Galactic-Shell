@@ -97,6 +97,9 @@
 .icon-slack:before {
   content: "\1f30a";
 }
+.icon-hipchat:before {
+  content: "\1f363";
+}
 /* ==========================================================================
    2. General - Setting up some base styles
    ========================================================================== */
@@ -702,6 +705,10 @@ a.icon-contact {
   text-decoration: none;
 }
 a.icon-slack {
+  font-size: 2.65;
+  text-decoration: none;
+}
+a.icon-hipchat {
   font-size: 2.65;
   text-decoration: none;
 }
